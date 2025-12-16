@@ -55,15 +55,15 @@ to improve user retention and maximize ROI on content investments.
 - **Market Expansion:** 15 new high-potential regional markets identified
 
 ## 8. Dashboard Screenshots
+<img width="955" height="535" alt="image" src="https://github.com/user-attachments/assets/f40a8949-74bf-4cd2-9a18-01a3ccce7d2b" />
+
 
 
 ## 9. Project Files
 - `NetflixDataAnalysis.pbix` - Power BI dashboard
-- `cleaned_netflix_titles.csv` - Processed dataset
+- `netflix_titles.csv` - Processed dataset
 
 
 ## 10. Future Enhancements
-- Integrate user engagement metrics (when available)
-- Add sentiment analysis on descriptions
 - Build ARIMA forecasting model for content planning
 
