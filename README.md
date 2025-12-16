@@ -19,7 +19,7 @@ to improve user retention and maximize ROI on content investments.
 ## 4. Methodology
 ### 4.1 Data Cleaning (Power Query)
 - Removed 250 duplicates
-- Handled 15% missing values using domain knowledge
+- Handled missing values using domain knowledge
 - Standardized country names
 - Split genre column into 21 distinct categories
 
@@ -43,7 +43,6 @@ to improve user retention and maximize ROI on content investments.
 2. **International content = 65%** - up from 35% in 2015
 3. **Dramas dominate** - 30% of all titles
 4. **90-120 min sweet spot** - highest completion rates
-5. **Q4 content surge** - 40% of annual additions
 
 ## 6. Business Recommendations
 1. Shift production budget: 60% TV Shows, 40% Movies
@@ -53,7 +52,6 @@ to improve user retention and maximize ROI on content investments.
 
 ## 7. Impact & Value
 - **User Retention:** Expected +12% from content optimization
-- **Cost Efficiency:** $200M savings through data-driven acquisition
 - **Market Expansion:** 15 new high-potential regional markets identified
 
 ## 8. Dashboard Screenshots
