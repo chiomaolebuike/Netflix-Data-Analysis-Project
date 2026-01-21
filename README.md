@@ -1,7 +1,7 @@
-# Netflix Data Analysis Project
+# 🎬 Netflix Data Analysis Project
 
 ## 1. Business Problem
-Netflix needs to optimize content acquisition & production strategies 
+Netflix needs to optimise content acquisition & production strategies 
 to improve user retention and maximize ROI on content investments.
 
 ## 2. Dataset Description
@@ -38,7 +38,7 @@ to improve user retention and maximize ROI on content investments.
 - Content Analysis Page (6 charts)
 - Geographic Distribution Page (map + breakdown)
 
-## 5. Key Insights
+## 🍿 5. Key Insights
 1. **70% Movies vs 30% TV Shows** - but TV growing 3x faster
 2. **International content = 65%** - up from 35% in 2015
 3. **Dramas dominate** - 30% of all titles
