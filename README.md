@@ -61,7 +61,7 @@ to improve user retention and maximize ROI on content investments.
 
 ## 9. Project Files
 - `NetflixDataAnalysis.pbix` - Power BI dashboard
-- `netflix_titles.csv` - Processed dataset
+- `cleaned_netflix_titles.csv` - Processed dataset
 
 
 ## 10. Future Enhancements
